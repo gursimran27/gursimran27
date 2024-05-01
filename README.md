@@ -6,7 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gursimran-singh-53854b237/) 
 <br/>
 <br/>
-![](https://leetcard.jacoblin.cool/gursimran_2003?ext=heatmap)
+<a href="https://leetcode.com/u/gursimran_2003/" target="_blank">![](https://leetcard.jacoblin.cool/gursimran_2003?ext=heatmap)</a>
 <br/>
 <br/>
 
