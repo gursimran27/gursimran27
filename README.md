@@ -6,7 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gursimran-singh-53854b237/) 
 <br/>
 <br/>
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=gursimran_2003&theme=github-dark" alt="LeetCode Badges"/>
+![LeetCode Stats](https://leetcode.card.workers.dev/gursimran_2003?theme=dark&font=source_code_pro&extension=activity)
 <br/>
 <br/>
 
